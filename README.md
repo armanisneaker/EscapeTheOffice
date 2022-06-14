@@ -1,5 +1,7 @@
 # EscapeTheOffice
 
-Simple game about escaping the Office non-cought by a Manager who wants to give you overtime.
+W.I.P
+
+Simple game about escaping the Office not cought by a Manager -  who wants to give you overtime.
 
 ![](EtO.gif)
